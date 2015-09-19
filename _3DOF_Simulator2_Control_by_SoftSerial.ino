@@ -1,3 +1,12 @@
+/*
+ * Arduino Mega / UNO
+ * 3DOF Simulator
+ * Control by SoftwareSerial
+ * 
+ * Date : 20150920
+ * Artist by SiRyuA.
+ */
+
 #include <SoftwareSerial.h>
 
 SoftwareSerial mySerial(12, 13); // RX12 TX13
